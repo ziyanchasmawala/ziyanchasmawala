@@ -2,7 +2,7 @@
 🎯 I'm targeting MERN stack mastery and making progress every day!<br>💻 My keyboard is my playground, and I'm always leveling up my skills!<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ziyan-chasmawala-4658b8239/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziyan-chasmawala-4658b8239/) 
 
 # 💻 Tech Stack:
 <div align="center">
