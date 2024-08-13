@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,kotlin,css,html,aws,react,express,nodejs,tailwindcss,vite,zod,mongodb,mysql,figma,numpy,pandas,scikit-learn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,kotlin,css,html,aws,react,express,nodejs,tailwindcss,vite,mongodb,mysql,figma,numpy,pandas,scikit-learn,matplotlib" />
 </div>
 
 # 📊 GitHub Stats:
