@@ -1,9 +1,5 @@
 # 💫 About Me:
-<div align="center">
-  <a href="https://github.com/ziyanchasmawala">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=33CC33&center=true&vCenter=true&width=435&lines=Hi+Welcome+to+my+GitHub+profile!;I'm+targeting+MERN+stack+mastery+and+making+progress+every+day!;My+keyboard+is+my+playground,+and+I'm+always+leveling+up+my+skills!" alt="Typing SVG" />
-  </a>
-</div>
+🎯 I'm targeting MERN stack mastery and making progress every day!<br>💻 My keyboard is my playground, and I'm always leveling up my skills!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ziyan-chasmawala-4658b8239/) 
@@ -32,3 +28,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ziyanchasmawala&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
