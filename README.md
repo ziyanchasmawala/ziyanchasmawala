@@ -20,11 +20,6 @@ I'm on an exciting journey to master the MERN stack while continually enhancing 
 ## 🗣️ Languages
 - English (Fluent)
 
-## ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ziyanchasmawala&icon=0&color=0)](https://visitcount.itsvg.in)
